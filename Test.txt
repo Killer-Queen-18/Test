@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Hellow
-=======
-aaa
->>>>>>> 3cdf80deab49b24c30cd4984ea3baec8c1c77e90
+git常用命令冲突模仿练习
+要求：
+只保留个人东西，提交内容：Hellow
